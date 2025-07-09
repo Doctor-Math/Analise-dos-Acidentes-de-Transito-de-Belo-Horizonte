@@ -1,4 +1,7 @@
 # Análise dos Acidentes de Trânsito em Belo Horizonte (2016-2022)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
+
+![Badge Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 
 ## Introdução
 
